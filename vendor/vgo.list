@@ -1,0 +1,3 @@
+MODULE                      VERSION
+github.com/iand/vgo-vendor  -
+github.com/iand/circuit     v0.0.0-20171204111915-2e03e581ff44
